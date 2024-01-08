@@ -1,0 +1,1 @@
+./mvnw -q clean install exec:java -Dexec.mainClass="io.tripled.marsrover.MarsRoverApplication"
