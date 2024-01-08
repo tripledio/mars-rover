@@ -6,7 +6,7 @@ This exercise is an adaption off the well known [Mars rover kata](https://kata-l
 
 ### Format program
 
-The goal of this exercise is to focus on development technique, not on technology. So you should be able to do everything with pure code. This code repository contains some simple start code to get things going. I've chosen to use java16, maven and junit5. However, feel free to throw it away and do it in other way. 
+The goal of this exercise is to focus on development technique, not on technology. So you should be able to do everything with pure code. This code repository contains some simple start code to get things going. I've chosen to use java 21, maven and junit5. However, feel free to throw it away and do it in other way. 
 
 **The sole requirement is that the application can be run using the 'marsrover' command.** 
 Since this is how the users wil use you application. If this command does not work, your application does not work! 
