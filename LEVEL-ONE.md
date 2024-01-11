@@ -10,7 +10,7 @@ When starting the simulation, the system ask us to specify how large we want the
 **************************
 **    MarsRover       **
 **************************
-Determine the maxCoordinate of the simulation by setting the maximum coordinate [0-100]
+Determine the size of the simulation by setting the maximum coordinate [0-100]
 [Enter max coordinate] : 5
 Simulation with max coordinate [5] created successfully. Simulation contains [36] coordinates
 
@@ -25,17 +25,17 @@ As stated before, the system should handle incorrect input properly.
 **************************
 **    MarsRover       **
 **************************
-Determine the maxCoordinate of the simulation by setting the maximum coordinate [0-100]
+Determine the size of the simulation by setting the maximum coordinate [0-100]
 [Enter max coordinate] : bad
 [bad] is an invalid Simulation maxCoordinate
-Determine the maxCoordinate of the simulation by setting the maximum coordinate [0-100]
+Determine the size of the simulation by setting the maximum coordinate [0-100]
 [Enter max coordinate] :
-Determine the maxCoordinate of the simulation by setting the maximum coordinate [0-100]
+Determine the size of the simulation by setting the maximum coordinate [0-100]
 [Enter max coordinate] : -45
 [-45] is an invalid Simulation maxCoordinate
-Determine the maxCoordinate of the simulation by setting the maximum coordinate [0-100]
+Determine the size of the simulation by setting the maximum coordinate [0-100]
 [Enter max coordinate] : 42
-Simulation with max coordinate [42] created successfully. Simulation contains [1849] coordinates
+Simulation with max coordinate [42] cre ated successfully. Simulation contains [1849] coordinates
 
 [Please enter a command] :
 ```
@@ -112,7 +112,7 @@ Note that we want to be able to quit at any time. So the quit command (q) should
 **************************
 **    MarsRover       **
 **************************
-Determine the maxCoordinate of the simulation by setting the maximum coordinate [0-100]
+Determine the size of the simulation by setting the maximum coordinate [0-100]
 [Enter max coordinate] : q
 Quiting application
 ```
@@ -143,7 +143,7 @@ When we want to launch the Rover at given coordinates, we must be sure that they
 **************************
 **    MarsRover       **
 **************************
-Determine the maxCoordinate of the simulation by setting the maximum coordinate [0-100]
+Determine the size of the simulation by setting the maximum coordinate [0-100]
 [Enter max coordinate] : 10
 Simulation with max coordinate [10] created successfully. Simulation contains [121] coordinates
 
